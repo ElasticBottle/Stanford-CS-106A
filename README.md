@@ -1,4 +1,4 @@
-# Stanford-CS-106B
+# Stanford-CS-106A
 Tackling the Stanford's CS 106A class Online
 
 Heyo!,
