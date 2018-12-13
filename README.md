@@ -10,7 +10,7 @@ Winston
 
 ATTENTION:  STANFORD STUDENTS
 
-If you are a current CS 106B student at Stanford University who has not yet made a final submission of this assignment, then looking at this solution will constitute a violation of Stanford's Honor Code.
+If you are a current CS 106A student at Stanford University who has not yet made a final submission of this assignment, then looking at this solution will constitute a violation of Stanford's Honor Code.
 
 You have been warned!
 
